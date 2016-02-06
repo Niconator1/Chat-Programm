@@ -1,0 +1,4 @@
+Read:true
+Write:true
+CMDSend:false
+CMDReceive:true
